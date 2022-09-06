@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="CSS Pages/style.css" rel="stylesheet" type="text/css" />
+  <script src="script.js"></script>
+  <link rel="favicon" href="images/favicon.ico">
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
+</head>
+
+<body>
+  <div class="nameplate">
+    <img class="image" src="images/IMG_20190224_172923-modified.png" alt="My Profile Picture">
+    <h1>Haryish Elangumaran</h1>
+    <p>Quality Assurance Engineer and Full Stack Aspirant</p>
+  </div>
+  <div class="bio">
+    <p>Hi! I'm Haryish Elangumaran, from Puducherry, Tamilnadu, India, currently living in Chennai with my lower middle class nuclear family.
+
+Though I haven't accomplished with any certifications during my academic days except I got experienced doing an internship in EmCog Solutions and experience in doing mini projects.
+
+I was looking for an opportunity to have a practical exposure and to connect myself with an organization to demonstrate my level of interest in Software Technology with my level of knowledge and skills. That's how I utilized the placement opportunities held in the college I got graduated recently and through that I got placed in Cognizant Technology Solution.</p>
+  </div>
+  <hr>
+    <h3>Books for reference</h3>
+  <ol>
+    <li>Python for Academic purpose</li>
+    <li>Computer Networks</li>
+  </ol>
+  <h3>Educational Background</h3>
+  <ul>
+    <li>Graduated BCA in DG Vaishnav College with <strong>80%</strong> aggregate. </li>
+    <li>Accomplished,
+    <ul> 
+      <li>HSC with 84.4%</li>
+      <li>SSLC with 87.7%</li>
+    </ul>
+    In St. Bede's Anglo Indian Hr. Sec. School</li>
+  </ul>
+  <hr>
+  <h3>Work Experience: </h3>
+  <table>
+    <thead>
+      <th>Period </th>
+      <th>Company Name</th>
+      <th>Title </th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Oct 2022 - Present</td>
+        <td>Cognizant Technology Solutions</td>
+        <td>Programer</td>
+      </tr>
+      <tr>
+        <td>Oct 2021 - September 2022</td>
+        <td>Cognizant Technology Solutions</td>
+        <td>Programer Trainee </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills: </h3>
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Manual Testing</td>
+            <td>+++++++++++++++</td>
+          </tr>
+          <tr>
+            <td>Selenium </td>
+            <td>+++++++++++++++</td>
+          </tr>
+          <tr>
+            <td>API Testing</td>
+            <td>+++++++++++++++</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>Java </td>
+            <td>+++++++++++++++</td>
+          </tr>
+          <tr>
+            <td>Python </td>
+            <td>+++++++++++++++</td>
+          </tr>
+          <tr>
+            <td>Front-End Web developement </td>
+            <td>+++++++++++++++</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
